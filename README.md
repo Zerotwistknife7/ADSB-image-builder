@@ -1,6 +1,6 @@
 # image-builder
 
-## Building the adsbexchange image based on buster:
+## Building the adsb image based on buster:
 
 ```
 git clone https://github.com/ADSBexchange/image-builder.git
@@ -10,7 +10,7 @@ unzip 2021-12-02-raspios-buster-armhf-lite.zip
  ./create-image.sh 2021-12-02-raspios-buster-armhf-lite.img buster.img
 ```
 
-## Building the adsbexchange image base on bullseye
+## Building the adsb image base on bullseye
 
 ```
 wget https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-04-07/2022-04-04-raspios-bullseye-armhf-lite.img.xz
